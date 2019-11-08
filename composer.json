@@ -1,5 +1,7 @@
 {
     "name": "apapsch/describe-version",
+    "description": "Composer plugin generating VERSION constant",
+    "license": "MIT",
     "type": "composer-plugin",
     "require": {
         "php": "~7.3",
